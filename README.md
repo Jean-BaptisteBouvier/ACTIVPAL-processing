@@ -16,8 +16,8 @@ Processing these files allows to extract the sedentary and active times of each 
 ## Folder organization
 
 - [codes](codes) contains the two MATLAB codes processing the data and logs to create the desired output files.
-- [data](data) contains the accelerometer data obtained from the activPAL. The name and format should respect that of the examples found in this folder.
-- [logs](logs) contains the logs of each participant tracking the times when the accelerometer was turned on and off during the study. The name and format should respect that of the examples found in this folder.
+- [data](data) contains the accelerometer data obtained from the activPAL. The name and format should respect that of the example found in this folder. The actual data cannot be released, we only provide a template file.
+- [logs](logs) contains the logs of each participant tracking the times when the accelerometer was turned on and off during the study. The name and format should respect that of the example found in this folder. The actual data cannot be released, we only provide a template file.
 - [outputs](outputs) contains the output files created by the codes. One file is created per participant and a summary file gather their averages.
 
 
