@@ -13,6 +13,8 @@ I created this repo to give tools to the researchers to interpret this huge amou
 Along with the raw accelerometer data for each participant, we also need a log describing when the accelerometer was worn during the study.
 Processing these files allows to extract the sedentary and active times of each participant, along with numerous other metrics such as standing time, sitting time, time spent doing light physical activity (LPA) and moderate-vigorous physical activity (MVPA).
 
+Detailed explanations about how to use the codes are available in the files `Code Instructions.pdf` and `Manuscript.pdf`.
+
 ## Folder organization
 
 - [codes](codes) contains the two MATLAB codes processing the data and logs to create the desired output files.
